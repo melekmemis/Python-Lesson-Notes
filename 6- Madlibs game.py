@@ -1,0 +1,6 @@
+color = input("Enter a color: ")
+noun = input("Enter a prulal noun: ")
+food = input("Enter a food name: ")
+print("Roses are " + color)
+print(noun + " are blue")
+print("I love " + food)
